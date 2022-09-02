@@ -1,0 +1,53 @@
+{
+	"group":"bsbo-01-19",
+	"students": [
+		{
+			"id": 1,
+			"fio": "Bogatirev O.A."
+		},
+		{
+			"id": 2,
+			"fio": "Bolotov A.Y."
+		},
+		{
+			"id": 3,
+			"fio": "Bugraev G.Y."
+		},
+		{
+			"id": 4,
+			"fio": "Bulishev A.P."
+		},
+		{
+			"id": 5,
+			"fio": "Gordienko Y.Y."
+		},
+		{
+			"id": 6,
+			"fio": "Gorobtsov A.A."
+		},
+		{
+			"id": 7,
+			"fio": "Dolgushina N.I."
+		},
+		{
+			"id": 8,
+			"fio": "Donetskaya A.A."
+		},
+		{
+			"id": 9,
+			"fio": "Yermilova M.S."
+		},
+		{
+			"id": 10,
+			"fio": "Ivanov S.A."
+		},
+		{
+			"id": 11,
+			"fio": "Ivashin A.S."
+		},
+		{
+			"id": 12,
+			"fio": "Kazantsev V.S."
+		}
+	]
+}
